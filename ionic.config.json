@@ -1,0 +1,7 @@
+{
+  "name": "whatsapp-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
